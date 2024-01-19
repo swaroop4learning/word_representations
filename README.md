@@ -27,4 +27,8 @@ This repository consists of two parts:<br>
 ### Requirements
 Install the dependencies from requirements.txt with pip install -r requirements.txt
 
+### Related works
+More detailed work on semantic similarity can be found in my other repo which covers explainability as well
+<br>https://github.com/swaroop4learning/semantic_similarity
+
 #### Contact author for any queries to reproduce the results
