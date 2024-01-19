@@ -1,0 +1,7 @@
+nltk
+gensim
+datasets
+torch
+transformers
+allennlp==2.1.0
+allennlp-models==2.1.0
